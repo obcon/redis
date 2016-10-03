@@ -1,0 +1,9 @@
+{
+  "name": "obcon-redis-test",
+  "version": "1.0.0",
+  "description": "a base redis test",
+  "author": "Marco Obermeyer",
+  "dependencies": {
+    "redis": "^2.6.2"
+  }
+}
